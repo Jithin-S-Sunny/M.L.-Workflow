@@ -16,7 +16,7 @@ bash
 Copy code
 pip install pandas numpy scikit-learn
 
-*Usage*
+# Usage #
 Input File: The script reads the dataset from a CSV file named 4glm.csv. Make sure the file is located in the same directory as the script, or provide the full path if it's elsewhere.
 
 Target Variable: The target variable column should be named target in the CSV file. Ensure that the column exists and contains the values to be predicted.
