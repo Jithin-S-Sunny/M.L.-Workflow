@@ -1,11 +1,11 @@
 
-*This is a machine learning based tool to predict the thermophilic nature of proteins*
+# This is a machine learning based tool to predict the thermophilic nature of proteins #
 The published work can be found here: https://link.springer.com/article/10.1007/s11756-022-01214-4 
 
-**Random Forest Regression Model for Predicting Target Variable**
+## Random Forest Regression Model for Predicting Target Variable ##
 This Python script implements a Random Forest regression model using the scikit-learn library to predict a target variable from a dataset. The script reads data from a CSV file, splits the data into training and testing sets, trains the model, and evaluates its performance. An online wrapper is also included to generate an HTML output for easy access and interaction.
 
-*Prerequisites*
+## Prerequisites ##
 Ensure you have the following Python packages installed before running the script:
 pandas
 numpy
